@@ -44,7 +44,7 @@ To make behavioural experiments and data analysis **accessible, actionable, and 
 
 ---
 
-## 🧪 Sample Use Cases
+## Sample Use Cases
 
 - Comparing two different productivity routines over 30 days
 - A therapist testing the effect of gratitude journaling vs CBT prompts
